@@ -1,0 +1,23 @@
+{
+  "name": "circledisc-heroku",
+  "version": "0.1.0",
+  "description": "Heroku app for circledisc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarityMoe/CircleDisc-Heroku.git"
+  },
+  "author": "noud02",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClarityMoe/CircleDisc-Heroku/issues"
+  },
+  "homepage": "https://github.com/ClarityMoe/CircleDisc-Heroku#readme",
+  "dependencies": {
+    "circledisc": "^0.2.0"
+  }
+}
