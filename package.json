@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ClarityMoe/CircleDisc-Heroku#readme",
   "dependencies": {
-    "circledisc": "^0.2.4"
+    "circledisc": "^0.2.5"
   }
 }
