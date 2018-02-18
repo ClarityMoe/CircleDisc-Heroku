@@ -1,5 +1,5 @@
 # CircleDisc on Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/ClarityMoe/CircleDisc-Heroku/tree/master" target="blank">
+<a href="https://heroku.com/deploy" target="blank">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
