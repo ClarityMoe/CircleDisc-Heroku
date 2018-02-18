@@ -1,0 +1,19 @@
+{
+  "name": "CircleDisc",
+  "description": "A CI to Discord Webhook.",
+  "logo": "https://d3r49iyjzglexf.cloudfront.net/logo-circleci-blog-e378a4db441e1ec3e15d50e9a356232eea65929d97d639b02fdefb4e45ea6fa4.png",
+  "scripts": {
+  },
+  "env": {
+    "WEBHOOK_URL": {
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  },
+  "addons": [],
+  "buildpacks": []
+}
